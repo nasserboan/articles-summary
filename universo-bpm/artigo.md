@@ -2,7 +2,6 @@
 
 Conheça um pouco mais sobre o COVID-19, um assunto tão atual e que mudou a vida de todos e provavelmente mudará ainda mais nos próximos meses. Vamos utilizar análise de dados para descobrir um pouco mais sobre o COVID-19. A mesma técnica pode ser utilizada para analisar processos e descobrir, com dados, a história real sobre o que acontece na sua empresa e porque ela tem os resultados que tem.
 
-___
 
 ## Dados
 
